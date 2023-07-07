@@ -1,4 +1,7 @@
 # UAS_LAB_PBK
+nama : ibnu wardhana
+npm : 213510414
+gatau kenapa blank bang
 
 This template should help get you started developing with Vue 3 in Vite.
 
